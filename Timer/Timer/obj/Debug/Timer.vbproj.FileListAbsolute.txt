@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\bin\Debug\Timer.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\obj\Debug\Timer.frm_timer.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\obj\Debug\Timer.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\obj\Debug\Timer.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi3-week3\Timer\Timer\obj\Debug\Timer.pdb
